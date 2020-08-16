@@ -1,2 +1,2 @@
 # prueba
-Prueba para ubuntu
+Prueba usando ubuntu
